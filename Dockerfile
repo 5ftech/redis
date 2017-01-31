@@ -1,2 +1,2 @@
-FROM daocloud.io/daocloud/dao-redis
+FROM daocloud.io/daocloud/dao-redis:master-init
 
